@@ -5,5 +5,5 @@ Our Bulk File Renamer Tool is a program designed to help users rename multiple f
 
 ## Contributors
 - Alyssa Fifer
-- Andrew Guy
+- Andrew Guy (@ggggumdrop)
 - Ross Wheatley
